@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "logo": "/images/home/about/1.jpeg",
+      "title": "Design Excellence",
+      "desc": "Our firm is dedicated to achieving design excellence in every project. We prioritize creativity, innovation, and attention to detail from start to finish. Great design transforms spaces and enriches lives, and we aim to deliver exceptional architectural solutions that exceed expectations"
+    },
+    {
+      "logo": "/images/home/about/2.jpeg",
+      "title": "Sustainable Practices",
+      "desc": "Sustainability is central to our architectural philosophy. We are committed to minimizing our environmental impact and promoting eco-friendly practices. By using sustainable materials, energy-efficient technologies, and green building strategies, we create spaces that meet today’s needs and contribute to a healthier future"
+    },
+    {
+      "logo": "/images/home/about/3.jpeg",
+      "title": "Client-Centric Aproach",
+      "desc": "We prioritize our clients' needs and vision above all else. Successful projects are built on strong client relationships, clear communication, and understanding goals. From initial consultation to project completion, we work closely with clients to ensure their vision is realized and expectations are exceeded"
+    }
+  ]
+}

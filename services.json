@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "title": "Conception",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "/images/services/sections/1.jpeg",
+      "link": "/templates/services/conception.html",
+      "services": [
+        ""
+      ]
+    },
+    {
+      "title": "Construction",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "/images/services/sections/2.jpeg",
+      "link": "/templates/services/construction.html",
+      "services": []
+    },
+    {
+      "title": "Renovation",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "/images/services/sections/3.jpeg",
+      "link": "/templates/services/renovation.html",
+      "servics": []
+    }
+  ]
+}
+
+
